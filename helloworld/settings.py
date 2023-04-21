@@ -25,7 +25,7 @@ SECRET_KEY = 'gijrna_se#dc&zx&7e03yi6-i_(k^fa0)q+)fovr%t=@yt&%rq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['01-helloworld-production.up.railway.app']
 
 
 # Application definition
